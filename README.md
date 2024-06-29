@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="[https://avatars.githubusercontent.com/u/101464304?v=4](https://cdn.discordapp.com/avatars/980893705047248977/6b3ae5ff74f8d62c766f9308c5b4dd2e.webp?size=128](https://cdn.discordapp.com/avatars/980893705047248977/6b3ae5ff74f8d62c766f9308c5b4dd2e.webp?size=128)"  />
+  <img height="150" src="https://cdn.discordapp.com/avatars/980893705047248977/6b3ae5ff74f8d62c766f9308c5b4dd2e.webp?size=128"  />
 </div>
 
 ###
